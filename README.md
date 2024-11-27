@@ -11,7 +11,7 @@
   - SQLAlchemy para operaciones con base de datos
   - Oracle Database para almacenamiento de datos
   - Docker para containerización
-- [Enlace al Repositorio]
+- [https://github.com/tizidacunha/ProyectoAlgoritmos]
 
 ### Proyecto de Desarrollo Web
 - **Sitio Web Dinámico** que muestra prácticas modernas de desarrollo web
@@ -20,7 +20,7 @@
   - CSS3 para estilos
   - JavaScript para interactividad
   - Bootstrap para diseño responsivo
-- [Enlace al Repositorio]
+- [https://github.com/tizidacunha/ProyectoDesarrolloWeb]
 
 ## 🛠️ Habilidades
 
@@ -57,7 +57,6 @@
 
 ## 📫 Contacto
 - GitHub: [@tizidacunha](https://github.com/tizidacunha)
-- [Agregar tus métodos de contacto preferidos]
 
 ## 📊 Estadísticas de GitHub
 
